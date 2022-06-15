@@ -19,5 +19,5 @@ Essas informações são obtidas através do arquivo `contacts.js` que contém u
 
 ## Link do App no CodeSandbox
 
-Este é o [link]([https://nwrqoi.csb.app/](https://v18zme.csb.app/)) do app.
+Este é o [link]([https://nwrqoi.csb.app/](https://v18zme.csb.app/) do app.
 
